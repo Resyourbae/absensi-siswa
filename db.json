@@ -1,0 +1,40 @@
+{
+  "absensi": [
+    {
+      "nama": "Resya",
+      "tanggal": "2025-05-22",
+      "keterangan": "Hadir",
+      "id": "f7dd"
+    },
+    {
+      "id": "91fa",
+      "nama": "Nafisha",
+      "tanggal": "2025-05-22",
+      "keterangan": "Sakit"
+    },
+    {
+      "nama": "Anggara",
+      "tanggal": "2025-05-22",
+      "keterangan": "Sakit",
+      "id": "d3d3"
+    },
+    {
+      "id": "e2e5",
+      "nama": "syifa",
+      "tanggal": "2025-05-26",
+      "keterangan": "Tanpa Keterangan"
+    },
+    {
+      "id": "1239",
+      "nama": "anggara",
+      "tanggal": "2025-06-05",
+      "keterangan": "Hadir"
+    },
+    {
+      "id": "0d7c",
+      "nama": "Azka",
+      "tanggal": "2025-06-05",
+      "keterangan": "Hadir"
+    }
+  ]
+}
